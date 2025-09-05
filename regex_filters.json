@@ -1,0 +1,122 @@
+{
+  "funny": [
+    "fun(ny|nier|niest)",
+    "laugh(able|ing)?",
+    "(comic|comical)",
+    "jest(ing)?",
+    "(pun|puns|punning)",
+    "tongue[- ]?in[- ]?cheek"
+  ],
+
+  "playful": [
+    "playful(ly|ness)?",
+    "whimsic(al|ally)?",
+    "light[- ]?hearted",
+    "mischiev(ous|ously)",
+    "joll(y|iness)",
+    "frolic(some)?",
+    "quirk(y|iness)"
+  ],
+
+  "creative": [
+    "creativ(e|ity|ely)",
+    "imagin(ative|ation)",
+    "innovat(ive|ion)",
+    "invent(ive|ion)",
+    "novel(ty)?",
+    "original(ly)?",
+    "clever(ness)?",
+    "ingenious",
+    "visionar(y|ies)"
+  ],
+
+  "catchy": [
+    "catch(y|ier|iest)",
+    "memorabl(e|y)",
+    "snapp(y|ier|iest)",
+    "quirk(y|ier|iest)",
+    "striking",
+    "attention[- ]?grab(bing|ber)?",
+    "punch(y|ier|iest)",
+    "eye[- ]?catch(ing|er)?"
+  ],
+
+  "humor": [
+    "humou?r(ous|ist|ists)?",
+    "witt(y|iness)?",
+    "sarcasm(ic|ically)?",
+    "satir(e|ical|ist|ists)?",
+    "iron(y|ic|ically)?",
+    "quip(s)?",
+    "banter(ing)?",
+    "parody",
+    "spoof",
+    "lampoon"
+  ],
+
+  "hilarious": [
+    "hilarious(ly)?",
+    "uproar(ious|iously)",
+    "side[- ]?splitting",
+    "knee[- ]?slapping",
+    "gut[- ]?bust(ing)?",
+    "rib[- ]?tickl(ing|er)?"
+  ],
+
+  "amusing": [
+    "amus(e|ed|ement|ing)",
+    "delight(ful|ed)?",
+    "entertain(ing|ment)",
+    "enjoy(able|ment)",
+    "laugh(able)",
+    "divert(ing|sion)",
+    "engag(ing|ement)"
+  ],
+
+  "entertaining": [
+    "entertain(ing|ment)",
+    "captivat(ing|ion)",
+    "delight(ful|fully)?",
+    "enchant(ing|ment)",
+    "riveting",
+    "spectacular"
+  ],
+
+  "silly": [
+    "sill(y|iness)",
+    "goof(y|iness)",
+    "zan(y|iness)",
+    "ridiculous(ly)?",
+    "nonsens(e|ical)",
+    "clown(ish|ing)",
+    "daft",
+    "loopy",
+    "wacky",
+    "madcap"
+  ],
+
+  "informal": [
+    "casual(ly)?",
+    "colloquial(ly)?",
+    "chatty",
+    "conversational",
+    "laid[- ]?back",
+    "(ain[’']?t|gonna|wanna|kinda|sorta)"
+  ],
+
+  "absurd": [
+    "absurd(ly|ity)?",
+    "preposterous(ly)?",
+    "illogical(ly)?",
+    "ridiculous(ly)?",
+    "outlandish",
+    "surreal(ly|ism)?",
+    "ludicrous(ly)?",
+    "far[- ]?fetched",
+    "irrational(ly)?"
+  ],
+
+  "academic": [
+    ".*"
+  ]
+}
