@@ -39,5 +39,9 @@ pip install -r requirements.txt
 
 # Dataset 
 - Download the data set from : https://arxiv.org/abs/2502.20582
+
+# NB
+- The regex filter dictionary was created using an llm
+
   
 
